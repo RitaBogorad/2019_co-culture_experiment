@@ -1,0 +1,143 @@
+,KEGG,Step,Cycle
+DeVisscher1,K11931,Biofilm formation,Biofilm
+DeVisscher2,K11935,Biofilm formation,Biofilm
+DeVisscher3,K11937,Biofilm formation,Biofilm
+DeVisscher4,K11936,Biofilm formation,Biofilm
+DeVisscher5,K13654,Biofilm formation,Biofilm
+DeVisscher6,K12148,Biofilm formation,Biofilm
+DeVisscher7,K13650,Biofilm formation,Biofilm
+1,K01012,Biotin biosynthesis,Biotin
+3,K00851,Carbohydrate metabolism,Carbon
+4,K25031,Carbohydrate metabolism,Carbon
+27,K07335,General nucleoside transporter,Carbon
+2,K00104,Glyoxylate metabolism,Carbon
+37,K09969,L-amino acid transport,Carbon
+38,K09970,L-amino acid transport,Carbon
+39,K09971,L-amino acid transport,Carbon
+40,K09972,L-amino acid transport,Carbon
+31,K10112,Multiple sugar transport,Carbon
+32,K07323,Phospholipid transport,Carbon
+33,K02067,Phospholipid transport,Carbon
+34,K02066,Phospholipid transport,Carbon
+35,K07122,Phospholipid transport,Carbon
+36,K02065,Phospholipid transport,Carbon
+28,K02002,Proline transport,Carbon
+29,K02001,Proline transport,Carbon
+30,K02000,Proline transport,Carbon
+24,K16092,Cobalamin transport,Cobalamin
+25,K00548,Cobalamin utilization,Cobalamin
+26,K03500,Cobalamin utilization,Cobalamin
+18,K00798,Final synthesis and repair,Cobalamin
+19,K19221,Final synthesis and repair,Cobalamin
+20,K02232,Final synthesis and repair,Cobalamin
+21,K02225,Final synthesis and repair,Cobalamin
+22,K02227,Final synthesis and repair,Cobalamin
+23,K02233,Final synthesis and repair,Cobalamin
+Debeljak3,K07224,Iron (II) transport,Iron
+Debeljak4,K04759,Iron (II) transport,Iron
+Debeljak5,K04758,Iron (II) transport,Iron
+Debeljak6,K07243,Iron (II) transport,Iron
+Debeljak7,K16301,Iron (II) transport,Iron
+10,K11604,Iron (II) transport,Iron
+11,K11605,Iron (II) transport,Iron
+12,K11606,Iron (II) transport,Iron
+13,K11607,Iron (II) transport,Iron
+7,K02012,Iron (III) transport,Iron
+8,K02011,Iron (III) transport,Iron
+9,K02010,Iron (III) transport,Iron
+Debeljak1,K02013,Iron (III) transport,Iron
+Debeljak2,K11710,Iron (III) transport,Iron
+Debeljak12,K02074,Manganese-zinc-iron transport,Iron
+Debeljak13,K02075,Manganese-zinc-iron transport,Iron
+Debeljak14,K02077,Manganese-zinc-iron transport,Iron
+14,K11707,Manganese-zinc-iron transport,Iron
+15,K11708,Manganese-zinc-iron transport,Iron
+16,K11709,Manganese-zinc-iron transport,Iron
+17,K117010,Manganese-zinc-iron transport,Iron
+5,K03594,Oxidoreductase,Iron
+6,K19054,Oxidoreductase,Iron
+Debeljak8,K02003,Siderophore uptake,Iron
+Debeljak9,K02014,Siderophore uptake,Iron
+Debeljak10,K02015,Siderophore uptake,Iron
+Debeljak11,K02016,Siderophore uptake,Iron
+Debeljak15,K03559,Siderophore uptake,Iron
+Debeljak16,K03560,Siderophore uptake,Iron
+Debeljak17,K03832,Siderophore uptake,Iron
+Debeljak18,K06858,Siderophore uptake,Iron
+Debeljak19,K16087,Siderophore uptake,Iron
+Debeljak20,K16088,Siderophore uptake,Iron
+Debeljak21,K16089,Siderophore uptake,Iron
+55,K00368,Denitrification,Nitrogen
+56,K00376,Denitrification,Nitrogen
+57,K02305,Denitrification,Nitrogen
+58,K04561,Denitrification,Nitrogen
+59,K15864,Denitrification,Nitrogen
+60,K15877,Denitrification,Nitrogen
+41,K00363,Dissimilatory nitrate reduction,Nitrogen
+42,K03385,Dissimilatory nitrate reduction,Nitrogen
+43,K15876,Dissimilatory nitrate reduction,Nitrogen
+53,K10535,Nitrification,Nitrogen
+54,K10944,Nitrification,Nitrogen
+44,K00372,Nitrogen assimilation,Nitrogen
+LlorensMarès1,K00265,Nitrogen assimilation,NITROGEN
+LlorensMarès2,K00284,Nitrogen assimilation,NITROGEN
+LlorensMarès3,K00360,Nitrogen assimilation,NITROGEN
+LlorensMarès4,K00367,Nitrogen assimilation,NITROGEN
+LlorensMarès5,K01915,Nitrogen assimilation,NITROGEN
+45,K02586,Nitrogen fixation,Nitrogen
+46,K02588,Nitrogen fixation,Nitrogen
+47,K02591,Nitrogen fixation,Nitrogen
+48,K00531,Nitrogen fixation,Nitrogen
+49,K22896,Nitrogen fixation,Nitrogen
+50,K22897,Nitrogen fixation,Nitrogen
+51,K22898,Nitrogen fixation,Nitrogen
+52,K22899,Nitrogen fixation,Nitrogen
+LlorensMarès26,K01077,Alkaline phosphatase,PHOSPHATE
+LlorensMarès27,K01113,Alkaline phosphatase,PHOSPHATE
+LlorensMarès22,K07636,Phosphate regulation,PHOSPHATE
+LlorensMarès23,K02039,Phosphate regulation,PHOSPHATE
+LlorensMarès24,K07657,Phosphate regulation,PHOSPHATE
+LlorensMarès25,K07658,Phosphate regulation,PHOSPHATE
+LlorensMarès6,K02038,Phosphate transport,PHOSPHATE
+LlorensMarès7,K02036,Phosphate transport,PHOSPHATE
+LlorensMarès8,K02037,Phosphate transport,PHOSPHATE
+LlorensMarès9,K02040,Phosphate transport,PHOSPHATE
+LlorensMarès13,K02043,Phosphonate metabolism,PHOSPHATE
+LlorensMarès14,K06166,Phosphonate metabolism,PHOSPHATE
+LlorensMarès15,K06165,Phosphonate metabolism,PHOSPHATE
+LlorensMarès16,K06164,Phosphonate metabolism,PHOSPHATE
+LlorensMarès17,K06163,Phosphonate metabolism,PHOSPHATE
+LlorensMarès18,K05781,Phosphonate metabolism,PHOSPHATE
+LlorensMarès19,K05780,Phosphonate metabolism,PHOSPHATE
+LlorensMarès20,K06162,Phosphonate metabolism,PHOSPHATE
+LlorensMarès21,K05774,Phosphonate metabolism,PHOSPHATE
+LlorensMarès10,K02041,Phosphonate transport,PHOSPHATE
+LlorensMarès11,K02044,Phosphonate transport,PHOSPHATE
+LlorensMarès12,K02042,Phosphonate transport,PHOSPHATE
+70,K03090,General stress response,Stress
+71,K06149,General stress response,Stress
+72,K03969,General stress response,Stress
+73,K03974,General stress response,Stress
+74,K03970,General stress response,Stress
+75,K03973,General stress response,Stress
+76,K05916,General stress response,Stress
+79,K03782,Oxidative stress,Stress
+80,K03781,Oxidative stress,Stress
+81,K03387,Oxidative stress,Stress
+82,K14171,Oxidative stress,Stress
+83,K04761,Oxidative stress,Stress
+84,K13639,Oxidative stress,Stress
+85,K04564,Oxidative stress,Stress
+86,K04565,Oxidative stress,Stress
+87,K09823,Oxidative stress,Stress
+77,K03716,UV radiation,Stress
+78,K01669,UV radiation,Stress
+66,K00390,Assimilatory sulfate reduction,Sulfur
+67,K00380,Assimilatory sulfate reduction,Sulfur
+68,K00381,Assimilatory sulfate reduction,Sulfur
+69,K00392,Assimilatory sulfate reduction,Sulfur
+61,K11180,Dissimilatory sulfate reduction,Sulfur
+62,K11181,Dissimilatory sulfate reduction,Sulfur
+63,K16950,Dissimilatory sulfate reduction,Sulfur
+64,K16951,Dissimilatory sulfate reduction,Sulfur
+65,K00385,Dissimilatory sulfate reduction,Sulfur
